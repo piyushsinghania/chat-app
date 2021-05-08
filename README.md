@@ -2,7 +2,7 @@
 A complete (frontend + backend) chat-app build using express.js and socket.io packages in node.js
 
 ## Url to visit and test
-coming soon!
+https://chit-and-chat.herokuapp.com/
 
 ## Web Technology used to build
 ```
